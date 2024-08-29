@@ -1,0 +1,12 @@
+com\thedev\boosters\Menu\BoostersMenu.class
+com\thedev\boosters\BoostersManager\Booster.class
+com\thedev\boosters\BoostersManager\BoosterManager.class
+com\thedev\boosters\PlayerManager\PlayerJoinQuit.class
+com\thedev\boosters\Commands\BoosterCommand.class
+com\thedev\boosters\Listeners\XPBoosterListener.class
+com\thedev\boosters\PlayerManager\PlayerManager.class
+com\thedev\boosters\Listeners\BoosterRedeem.class
+com\thedev\boosters\BoostersManager\Boosters\EXPBooster.class
+com\thedev\boosters\Boosters.class
+com\thedev\boosters\Utils\ItemBuilder.class
+com\thedev\boosters\Utils\ColorUtil.class

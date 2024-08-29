@@ -1,0 +1,68 @@
+messages:
+  booster-redeemed: "&5&lBoosters &dYou have just redeemed a &e%booster%&d Booster!"
+  invalid-booster: "&5&lBoosters &dYou have entered an invalid booster."
+  given-booster: "&5&lBoosters &dYou have given &e%player%&d a booster!"
+  received-booster: "&5&lBoosters &dYou have received a booster!"
+  cannot-redeem: "&5&lBoosters &dYou cannot exceed the max booster limit!"
+
+default-booster-limit: 3.0
+
+booster-limits:
+  expbooster: 6.0
+  collectorbooster: 2.0
+  voidchestbooster: 2.0
+  shopguibooster: 2.0
+
+booster-item:
+  name: "&5&lBooster &8>> &d%boostername% &8(&e%amount%&8)"
+  material: "EMERALD"
+  texture: ""
+  glow: true
+  data: 0
+  lore:
+    - "&7Click to redeem this booster item"
+    - "&7View active boosters in /booster!"
+
+default-booster-menu:
+  name: "&5&l%boostername &d&lBooster"
+  material: "EMERALD"
+  texture: ""
+  glow: true
+  data: 0
+  lore:
+    - "&7&othese boosters grant players amazing buffs"
+    - "&7&otowards their progress on the server."
+    - "&7&oUse these wisely for the best effects"
+    - ""
+    - "&d&lGLOBAL BOOSTER"
+    - "&5&l: &7Type: &f%boostername%"
+    - "&5&l: &7Status: &c&lCOMING SOON"
+    - ""
+    - "&d&lPERSONAL BOOSTER"
+    - "&5&l: &7Type: &f%boostername%"
+    - "&5&l: &7Status: &f%amount%"
+    - ""
+    - "&7&o(Obtain these boosters from &n/gold shop&7)"
+
+booster-menus:
+  menu-name: "&5&lBoosters &d&lMenu"
+  expbooster:
+    name: "&2&lExp &a&lBooster"
+    material: "EMERALD"
+    texture: ""
+    glow: true
+    data: 0
+    lore:
+      - "&7&othese boosters grant players amazing buffs"
+      - "&7&otowards their progress on the server."
+      - "&7&oUse these wisely for the best effects"
+      - ""
+      - "&a&lGLOBAL BOOSTER"
+      - "&2&l: &7Type: &fExp"
+      - "&2&l: &7Status: &c&lCOMING SOON"
+      - ""
+      - "&a&lPERSONAL BOOSTER"
+      - "&2&l: &7Type: &fExp"
+      - "&2&l: &7Status: &f%amount%"
+      - ""
+      - "&7&o(Obtain these boosters from &n/gold shop&7)"

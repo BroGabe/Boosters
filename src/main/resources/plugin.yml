@@ -1,0 +1,3 @@
+name: Boosters
+version: '${project.version}'
+main: com.thedev.boosters.Boosters
